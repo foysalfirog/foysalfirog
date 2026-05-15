@@ -1,6 +1,7 @@
-### Hi there 👋, It's me Foysal Ahammad
-#### Full stack web developer
 ![Full stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## Hi there 👋, It's me Foysal Ahammad
+### Full stack web developer
+
 
 Full Stack Web Developer with a strong passion for building modern, responsive, and scalable web applications. Skilled in JavaScript, Node.js, Express.js, SQL, HTML, and CSS, with experience creating dynamic frontend interfaces and efficient backend systems. I enjoy solving real-world problems through clean, optimized, and maintainable code. Constantly learning new technologies and improving my development skills to create better digital experiences and high-quality web solutions.
 
